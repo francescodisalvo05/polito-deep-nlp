@@ -1,6 +1,6 @@
 # Deep Natural Language Processing
 
-Assignements and exercises for the "Distributed Architectures" course at Politecnico di Torino (AY 2020/2021)
+Assignements and exercises for the "Deep Natural Language Processing" course at Politecnico di Torino (AY 2021/2022)
 
 > Credits for the text of the exercises to [Moreno La Quatra](https://github.com/MorenoLaQuatra/DeepNLP), teaching assistant of the course.
 
