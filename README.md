@@ -10,4 +10,5 @@ Assignements and exercises for the "Deep Natural Language Processing" course at 
 | 02 | 2021/10/20 | Word and Sentence Embeddings | [`link`](https://github.com/francescodisalvo05/polito-deep-nlp/blob/main/Labs/Lab_02_Word_and_Sentence_Embeddings.ipynb) |
 | 03 | 2021/11/03 | Information Retrieval and Recommendation Systems | [`link`](https://github.com/francescodisalvo05/polito-deep-nlp/blob/main/Labs/Lab_03_IR_and_Recommendation_systems.ipynb) | 
 | 04 | 2021/11/10 | Named Entities Recognition and Intent Detection | [`link`](https://github.com/francescodisalvo05/polito-deep-nlp/blob/main/Labs/Lab_04_NER_and_Intent_Detection.ipynb) | 
+| 05 | 2021/11/24 | Text Summarization  | [`link`](https://github.com/francescodisalvo05/polito-deep-nlp/blob/main/Labs/Lab_05_Automatic_Text_Summarization.ipynb) | 
 
